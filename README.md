@@ -1,4 +1,4 @@
-Notification App 🔔
+# Notification App 🔔
 
 Task 4 - Android App Development Internship in CodSoft
 This Android application allows users to send and receive notifications, staying informed about important events and updates.
